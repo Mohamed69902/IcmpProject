@@ -1,4 +1,4 @@
-# IcmpProject
+# ICMP Packet sender (ping)
 
 
 ## I started learning networking libraries in python a week ago this is my first project, it’s a simple one but very important to understand how packets are sent in the network.
